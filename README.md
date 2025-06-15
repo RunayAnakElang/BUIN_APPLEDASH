@@ -1,6 +1,8 @@
-Jalankan proyek menggunakan Docker:# BUIN_APPLEDASH
+# APPLE SALES ANALYTICS DASHBOARD (BUIN_APPLEDASH)
 
-Repositori ini merupakan proyek tugas kelompok BUIN 3 KELOMPOK 2 yang berfokus pada analisis data penjualan produk Apple menggunakan **OLAP (Online Analytical Processing)** dan visualisasi data berbasis **Django Dashboard**.
+Repositori ini merupakan proyek tugas kelompok **BUIN 3 KELOMPOK 2** yang berfokus pada analisis data penjualan produk Apple menggunakan pendekatan **OLAP (Online Analytical Processing)** serta visualisasi interaktif berbasis **Django**.
+
+Jalankan proyek menggunakan Docker:# BUIN_APPLEDASH
 
 ## Struktur Proyek
 
